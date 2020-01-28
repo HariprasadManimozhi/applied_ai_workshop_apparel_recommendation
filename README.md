@@ -1,4 +1,4 @@
-# Apparel Recommendation - Amazon
+# Apparel Recommendation workshop - Amazon
 
 ### Problem Statement:
 
