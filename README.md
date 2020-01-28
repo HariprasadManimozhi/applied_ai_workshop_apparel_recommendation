@@ -1,12 +1,10 @@
-# Amazon-Apparel-Recommendation
-<img src='https://s3.amazonaws.com/poly-screenshots.angel.co/Project/b3/793703/d3173ba84fe4cd2248f0bde23fab625a-thumb_jpg.jpg'>
+# Apparel Recommendation - Amazon
 
-
-Recommending similar products (apparel) to the given product (apparel) in any e-commerce websites. 
-
-### Statement
+### Problem Statement:
 
 -  Product recommendations are the alternative way of navigating through the online shop. Showing similar products to the user which user is searching for.
+
+-  Build a recommendation engine which suggests similar products to the given product  in any e-commerce websites using NLP techniques for Text Semantics based product similarity and deep learning techniques for deep learning based visual product similarity.
 
 
 ### Objective: 
@@ -23,3 +21,5 @@ Each product/item has 19 features in the raw dataset out of these 19 features, w
 5. medium_image_url  ( url of the image )
 6. title (title of the product.)
 7. formatted_price (price of the product)
+
+### Reference : https://www.appliedaicourse.com/course/13/workshop
